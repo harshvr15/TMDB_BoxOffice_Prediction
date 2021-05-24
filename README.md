@@ -4,4 +4,5 @@ The film industry boasts one of the most successful business models, with demand
 Herein, in this project a comparative analysis was performed on Linear Regression, Random Forest, XG Boost and LG Boost models to find the best suitable model for revenue prediction. The exploratory data analysis included data cleaning, label encoding, and data pre-processing that is introduced in the exploratory data analysis section further, the four regressor models are discussed. The evaluation metrics used to show the superiority of our models is talked about in the evaluation and the result section . Finally, the last section draws conclusion to this research and describes future scope.
 
 Competiton Link: https://www.kaggle.com/c/tmdb-box-office-prediction
+
 MySubmission Link: https://www.kaggle.com/harshvr15/datawrang-eda-models-lr-rf-xgb-lgb-gridsearch
